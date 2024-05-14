@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24448208 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="14_VIDEO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="14_Video/Desktop" transform="translate(-469.000000, -491.000000)">
+            <g id="Group-3" transform="translate(206.000000, 367.000000)">
+                <g id="Group-2">
+                    <g id="Group" filter="url(#filter-1)" transform="translate(267.000000, 126.000000)">
+                        <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="0.5" width="95" height="95" rx="47.5"></rect>
+                        <polygon id="Triangle" fill="#5042F8" transform="translate(53.500000, 48.500000) rotate(-270.000000) translate(-53.500000, -48.500000) " points="53.5 33 69 64 38 64"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
